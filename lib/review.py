@@ -57,7 +57,7 @@ class Review:
     @classmethod
     def instance_from_db(cls, row):
         """Return an Review instance having the attribute values from the table row."""
-        # Check the dictionary for  existing instance using the row's primary key
+        
         pass
    
 
